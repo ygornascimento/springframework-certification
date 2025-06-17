@@ -1,0 +1,15 @@
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/RewardConfirmation.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/account/AccountRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/RewardNetwork.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/Dining.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/account/Beneficiary.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/AccountContribution.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/reward/JdbcRewardRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/restaurant/RestaurantRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/account/JdbcAccountRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/RewardNetworkImpl.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/restaurant/Restaurant.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/reward/RewardRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/restaurant/JdbcRestaurantRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/config/RewardsConfig.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/12-javaconfig-dependency-injection/src/main/java/rewards/internal/account/Account.java

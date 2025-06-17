@@ -1,0 +1,8 @@
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/RewardNetworkTests.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/account/AccountTests.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/restaurant/RestaurantTests.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/StubRewardRepository.java

@@ -1,0 +1,6 @@
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/security/CustomUserDetailsService.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/services/AccountService.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/RestWsApplication.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/web/AccountController.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/accounts/security/CustomAuthenticationProvider.java
+/Users/yna/workspace/springframework-certification/core-spring-labfiles/lab/42-security-rest-solution/src/main/java/config/RestSecurityConfig.java
